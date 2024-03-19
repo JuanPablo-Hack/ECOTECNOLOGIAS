@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="assets/img/about.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="Imagen de resumen" src="assets/img/about.webp">
                     </div>
                 </div>
             </div>

@@ -105,7 +105,7 @@
         </div>
       </div>
       <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"
-        ><i class="bi bi-arrow-up"></i
+      aria-label="Botón para subir página"><i class="bi bi-arrow-up"></i
       ></a>
         <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

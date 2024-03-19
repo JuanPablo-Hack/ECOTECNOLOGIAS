@@ -8,7 +8,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                             <div class="text-center p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-1.jpg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-1.webp" alt="">
                                 <h5 class="fw-bold mb-1">Full Name</h5>
                                 <small>Designation</small>
                             </div>
@@ -22,7 +22,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                             <div class="text-center p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-2.jpg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-2.webp" alt="">
                                 <h5 class="fw-bold mb-1">Full Name</h5>
                                 <small>Designation</small>
                             </div>
@@ -36,7 +36,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                             <div class="text-center p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-3.jpg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-3.webp" alt="">
                                 <h5 class="fw-bold mb-1">Full Name</h5>
                                 <small>Designation</small>
                             </div>
@@ -50,7 +50,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                             <div class="text-center p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-4.jpg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" src="assets/img/team-4.webp" alt="">
                                 <h5 class="fw-bold mb-1">Full Name</h5>
                                 <small>Designation</small>
                             </div>

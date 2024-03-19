@@ -6,8 +6,8 @@
 para empesas pequeñas, medias y grandes" name="description" />
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/icon/icon_logo.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/icon/icon_logo2.png">
+    <link rel="shortcut icon" href="assets/icon/icon_logo.webp">
+    <link rel="apple-touch-icon-precomposed" href="assets/icon/icon_logo2.webp">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />

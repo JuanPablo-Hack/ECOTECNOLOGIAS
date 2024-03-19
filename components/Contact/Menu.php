@@ -4,7 +4,7 @@
         >
           <a href="" class="navbar-brand p-1">
             
-            <img src="assets/img/logo.png" alt="Logo" style="background-color: white;" >
+            <img src="assets/img/logo.webp" alt="Logo" style="background-color: white;" >
           </a>
           <button
             class="navbar-toggler"

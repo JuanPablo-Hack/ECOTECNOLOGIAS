@@ -4,7 +4,7 @@
         >
           <a href="" class="navbar-brand p-1">
             
-            <img src="assets/img/logo.png" alt="Logo" style="background-color: white;" >
+            <img src="assets/img/logo.webp" alt="Logo" style="background-color: white;" >
           </a>
           <button
             class="navbar-toggler"
@@ -59,8 +59,8 @@
               <div class="col-lg-6 text-center text-lg-start">
                 <img
                   class="img-fluid animated zoomIn"
-                  src="assets/img/hero.png"
-                  alt=""
+                  src="assets/img/hero.webp"
+                  alt="Imagen de entrada"
                 />
               </div>
             </div>
