@@ -1,8 +1,9 @@
 <meta charset="utf-8" />
     <title>ECOTECNOLOGÍAS DEL PACÍFICO</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="" name="keywords" />
-    <meta content="" name="description" />
+    <meta content="Tecnología" name="keywords" />
+    <meta content="Trabajamos en la rama de tecnologia basica para hogar y profesional
+para empesas pequeñas, medias y grandes" name="description" />
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/icon/icon_logo.png">
