@@ -26,7 +26,7 @@
                   >Servicios</a
                 >
                 <div class="dropdown-menu m-0">
-                  <a href="team.php" class="dropdown-item">Internet</a>
+                  <a href="internet.php" class="dropdown-item">Internet</a>
                   <a href="testimonial.php" class="dropdown-item"
                     >Paneles Solares</a
                   >
