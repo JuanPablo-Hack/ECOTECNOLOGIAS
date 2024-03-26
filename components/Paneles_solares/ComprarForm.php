@@ -7,49 +7,52 @@
                 <div class="row g-5">
                     <div class="col-lg-12 col-md-6">
                         <div class="wow fadeInUp" data-wow-delay="0.2s">
-                            <form>
+                            <form id="comprarInternet">
+                                <input type="hidden" name="formulario" value="PANELES SOLARES">
                                 <div class="row g-3">
                                     <div class="col-md-6">
                                         <div class="form-floating">
-                                            <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                            <input type="text" class="form-control" id="name" placeholder="Nombre completo" name="datos[]">
                                             <label for="name">Nombre</label>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-floating">
-                                            <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                            <input type="email" class="form-control" id="email" placeholder="Your Email" name="datos[]">
                                             <label for="email">E-Mail</label>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-floating">
-                                            <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                            <input type="text" class="form-control" id="name" placeholder="Your Name" name="datos[]">
                                             <label for="name">Télefono</label>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-floating">
-                                            <select name="" id="" class="form-control">
+                                            <select class="form-control" name="datos[]">
                                                 <option value="">-Selecciona Opción-</option>
-                                                <option value="">KIT 2 PANELES</option>
-                                                <option value="">KIT 4 PANELES</option>
-                                                <option value="">KIT 6 PANELES</option>
-                                                <option value="">KIT 8 PANELES</option>
-                                                <option value="">KIT 10 PANELES</option>
-                                                <option value="">KIT 16 PANELES</option>
-                                                <option value="">KIT 22 PANELES</option>
+                                                <option value="KIT 2 PANELES">KIT 2 PANELES</option>
+                                                <option value="KIT 4 PANELES">KIT 4 PANELES</option>
+                                                <option value="KIT 6 PANELES">KIT 6 PANELES</option>
+                                                <option value="KIT 8 PANELES">KIT 8 PANELES</option>
+                                                <option value="KIT 10 PANELES">KIT 10 PANELES</option>
+                                                <option value="KIT 16 PANELES">KIT 16 PANELES</option>
+                                                <option value="KIT 22 PANELES">KIT 22 PANELES</option>
                                             </select>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="form-floating">
-                                            <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
+                                            <textarea class="form-control" placeholder="Leave a message here" name="datos[]" id="message" style="height: 150px"></textarea>
                                             <label for="message">Dirección</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="form-floating">
-                                            <div id="map"></div>
+                                            <div id="map" ></div>
+                                            <input type="hidden" name="datos[]" id="latitud">
+                                            <input type="hidden" name="datos[]" id="longitud">
                                         </div>
                                     </div>
                                     <div class="col-12">
