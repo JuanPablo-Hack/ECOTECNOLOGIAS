@@ -44,12 +44,12 @@
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 pt-5">
                         <div class="col-12 text-center text-lg-start">
-                            <h1 class="display-4 text-white animated slideInLeft">Paneles Solares</h1>
+                            <h1 class="display-4 text-white animated slideInLeft">CCTV</h1>
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb justify-content-center justify-content-lg-start animated slideInLeft">
                                     <li class="breadcrumb-item"><a class="text-white" href="#">Inicio</a></li>
                                     <li class="breadcrumb-item"><a class="text-white" href="#">Servicios</a></li>
-                                    <li class="breadcrumb-item"><a class="text-white" href="#">Paneles Solares</a></li>
+                                    <li class="breadcrumb-item"><a class="text-white" href="#">CCTV</a></li>
 }                                </ol>
                             </nav>
                         </div>

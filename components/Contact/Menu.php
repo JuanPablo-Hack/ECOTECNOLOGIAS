@@ -30,7 +30,7 @@
                   <a href="paneles_solares.php" class="dropdown-item"
                     >Paneles Solares</a
                   >
-                  <a href="comparison.php" class="dropdown-item">CCTV</a>
+                  <a href="camaras.php" class="dropdown-item">CCTV</a>
                   <a href="comparison.php" class="dropdown-item">A/C</a>
 
                 </div>
