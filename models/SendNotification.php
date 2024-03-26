@@ -100,7 +100,7 @@ function mandarReservacionVentas($servicio, $datos_cliente)
                             href="http://ecotecnologiasdelpacifico.com/"
                             style="text-decoration: none"
                             ><img
-                              src="https://ecotecnologias.jupitersoft.tech/assets/img/logo.webp"
+                              src="http://ecotecnologiasdelpacifico.com/assets/img/logo.png"
                               width="165"
                               alt="Logo"
                               style="
