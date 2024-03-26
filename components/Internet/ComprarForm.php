@@ -42,12 +42,6 @@
                                     </div>
                                     <div class="col-12">
                                         <div class="form-floating">
-                                            <textarea class="form-control" placeholder="Leave a message here" name="datos[]" id="message" style="height: 150px"></textarea>
-                                            <label for="message">Dirección</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="form-floating">
                                             <div id="map" ></div>
                                             <input type="hidden" name="datos[]" id="latitud">
                                             <input type="hidden" name="datos[]" id="longitud">

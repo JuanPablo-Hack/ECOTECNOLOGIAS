@@ -142,13 +142,10 @@ function mandarReservacionVentas($servicio, $datos_cliente)
                               Tipo de paquete: ' .
         $datos_cliente[3] .
         ' <br><br>
-                              Dirección: ' .
-        $datos_cliente[4] .
-        ' <br><br>
                               Coordenadas: ' .
-        $datos_cliente[5] .
+        $datos_cliente[4] .
         ' , ' .
-        $datos_cliente[6] .
+        $datos_cliente[5] .
         '
                           </p>
                           <br />
