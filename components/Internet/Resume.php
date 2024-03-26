@@ -10,7 +10,7 @@
                         </p>
                     </div>
                     <div class="col-lg-5">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="assets/img/about_2.webp">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="assets/img/wifi.webp">
                     </div>
                 </div>
             </div>
