@@ -132,7 +132,7 @@ function mandarReservacionVentas($servicio, $datos_cliente)
                           </h1>
                           <p style="margin: 0">
                               Administrador ha llegado una nueva petición a nombre de: ' .
-        utf8_encode($datos_cliente[0]) .
+        $datos_cliente[0] .
         ', correo electronico ' .
         utf8_encode($datos_cliente[1]) .
         '. <br><br>
@@ -142,10 +142,13 @@ function mandarReservacionVentas($servicio, $datos_cliente)
                               Tipo de paquete: ' .
         $datos_cliente[3] .
         ' <br><br>
-                              Coordenadas: ' .
+                              Dirección: ' .
         $datos_cliente[4] .
-        ' , ' .
+        ' <br><br>
+                              Coordenadas: ' .
         $datos_cliente[5] .
+        ' , ' .
+        $datos_cliente[6] .
         '
                           </p>
                           <br />

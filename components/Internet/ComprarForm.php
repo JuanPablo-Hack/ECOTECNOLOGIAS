@@ -30,7 +30,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-floating">
-                                            <select name="" id="" class="form-control" name="datos[]">
+                                            <select class="form-control" name="datos[]">
                                                 <option value="">-Selecciona Opción-</option>
                                                 <option value="">INTERMEDIO</option>
                                                 <option value="">DEDICADO BASICO</option>
@@ -38,6 +38,12 @@
                                                 <option value="">DEDICADO INTERMEDIO</option>
                                                 <option value="">DEDICADO ESPECIAL</option>
                                             </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <textarea class="form-control" placeholder="Leave a message here" name="datos[]" id="message" style="height: 150px"></textarea>
+                                            <label for="message">Dirección</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
