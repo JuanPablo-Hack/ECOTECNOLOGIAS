@@ -17,17 +17,17 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
               <a href="index.php" class="nav-item nav-link ">Inicio</a>
-              <a href="about.php" class="nav-item nav-link active">Acerca de</a>
+              <a href="about.php" class="nav-item nav-link ">Acerca de</a>
               <div class="nav-item dropdown">
                 <a
                   href="#"
-                  class="nav-link dropdown-toggle"
+                  class="nav-link dropdown-toggle active"
                   data-bs-toggle="dropdown"
                   >Servicios</a
                 >
                 <div class="dropdown-menu m-0">
                   <a href="internet.php" class="dropdown-item">Internet</a>
-                  <a href="testimonial.php" class="dropdown-item"
+                  <a href="paneles_solares.php" class="dropdown-item"
                     >Paneles Solares</a
                   >
                   <a href="comparison.php" class="dropdown-item">CCTV</a>
