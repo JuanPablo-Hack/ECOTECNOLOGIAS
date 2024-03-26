@@ -2,7 +2,7 @@
 
 function mandarReservacionVentas($servicio, $datos_cliente)
 {
-    $destinatario = 'juanpablodejesusfigueroa@gmail.com';
+    $destinatario = 'ventas@ecotecnologias.com';
     $asunto = 'Reservacion del sitio web';
     $cuerpo =
         ' 
