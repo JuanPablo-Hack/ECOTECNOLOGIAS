@@ -186,4 +186,5 @@ function mandarReservacionVentas($servicio, $datos_cliente)
     $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
     $headers .= "From: SITIO WEB <$datos_cliente[1]>\r\n";
     mail($destinatario, $asunto, $cuerpo, $headers);
+    echo 1;
 }
