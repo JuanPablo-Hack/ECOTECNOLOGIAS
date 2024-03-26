@@ -32,11 +32,11 @@
                                         <div class="form-floating">
                                             <select class="form-control" name="datos[]">
                                                 <option value="">-Selecciona Opción-</option>
-                                                <option value="">INTERMEDIO</option>
-                                                <option value="">DEDICADO BASICO</option>
-                                                <option value="">DEDICADO CLASICO</option>
-                                                <option value="">DEDICADO INTERMEDIO</option>
-                                                <option value="">DEDICADO ESPECIAL</option>
+                                                <option value="INTERMEDIO">INTERMEDIO</option>
+                                                <option value="BASICO">DEDICADO BASICO</option>
+                                                <option value="CLASICO">DEDICADO CLASICO</option>
+                                                <option value="DEDICADO INTERMEDIO">DEDICADO INTERMEDIO</option>
+                                                <option value="DEDICADO ESPECIAL">DEDICADO ESPECIAL</option>
                                             </select>
                                         </div>
                                     </div>
