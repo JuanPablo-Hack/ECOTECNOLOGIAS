@@ -118,3 +118,6 @@
 
     <!-- Template Javascript -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/geolet.js"></script>
+    <script src="assets/js/map.js"></script>
+    <script src="assets/js/forms.js"></script>

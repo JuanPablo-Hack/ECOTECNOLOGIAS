@@ -48,6 +48,11 @@
                                         </div>
                                     </div>
                                     <div class="col-12">
+                                        <div class="form-floating">
+                                            <div id="map"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
                                         <button class="btn btn-primary w-100 py-3" type="submit">Enviar Petición</button>
                                     </div>
                                 </div>
