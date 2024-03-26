@@ -165,7 +165,7 @@ function mandarReservacionVentas($servicio, $datos_cliente)
                           "
                         >
                           <p style="margin: 0; font-size: 14px; line-height: 20px">
-                            &reg; ECOTECNOLOGIAS DEL PACIFICO, todos los derechos reservados 2023<br /><a
+                            &reg; ECOTECNOLOGIAS DEL PACIFICO, todos los derechos reservados 2024<br /><a
                               class="unsub"
                               href="http://ecotecnologiasdelpacifico.com/"
                               style="color: #fff; text-decoration: underline"
